@@ -1,0 +1,19 @@
+{
+  "StockMarket": [
+    {
+      "shareName": "Jio",
+      "numberOfShare": 7,
+      "sharePrice": 230
+    },
+    {
+      "shareName": "Tata",
+      "numberOfShare": 9,
+      "sharePrice": 555
+    },
+    {
+      "shareName": "Bajaj",
+      "numberOfShare": 3,
+      "sharePrice": 143
+    }
+  ]
+}
